@@ -1,7 +1,12 @@
-Sistema Gestión Documentos VTN
+# Sistema Gestión Documentos VTN
+
+Aplicación desarrollada en Microsoft Power Platform (Power Apps + SharePoint) para el área de Vicerrectoría de Transformación y Nuevas Soluciones (VTN) del Instituto Profesional AIEP. El sistema centraliza, organiza y asegura la trazabilidad de toda la documentación contractual de la VTN, permitiendo administrar proveedores, contratos, órdenes de compra, facturas y usuarios en un solo lugar.
+
 <p align="center">
   <img src="inicio.png" width="100%" />
 </p>
+
+## 🚀 ¿Qué realiza el sistema aplicativo?
 
 Aplicación desarrollada en Microsoft Power Platform (Power Apps + SharePoint) para el área de Vicerrectoría de Transformación y Nuevas Soluciones (VTN) del Instituto Profesional AIEP. El sistema centraliza, organiza y asegura la trazabilidad de toda la documentación contractual de la VTN, permitiendo administrar proveedores, contratos, órdenes de compra, facturas y usuarios en un solo lugar.
 
