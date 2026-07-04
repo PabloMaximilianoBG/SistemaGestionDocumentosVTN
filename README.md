@@ -61,7 +61,7 @@ Autocompletado de datos desde el directorio de la organización (Office 365).
 
 Capturas del sistema
 
-El PDF adjunto (Sistema_Gestion_Documentos_VTN.pdf) contiene el detalle completo de pantallas, flujos de trabajo y validaciones del sistema, incluyendo:
+El PDF adjunto (Sistema_Gestion_Documentos_VTN.pdf) contiene la visualización completa del sistema, con sus funcionalidades.
 
 
 Pantalla de inicio de sesión y home
