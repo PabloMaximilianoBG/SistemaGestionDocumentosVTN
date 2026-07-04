@@ -4,7 +4,7 @@ Aplicación desarrollada en Microsoft Power Platform (Power Apps + SharePoint) p
 
 <p align="center">
   <img src="inicio.png" width="100%" />
-</p> #
+</p> 
 
 ## 🚀 ¿Qué realiza el sistema aplicativo?
 
@@ -71,18 +71,4 @@ Panel de documentos con visor integrado
 Administración de usuarios
 Vista del sitio SharePoint asociado
 
-
-Documentación
-
-
-Estructura del sitio SharePoint
-
-El sitio "Gestión Documentos VTN" contiene, entre otras, las siguientes listas y bibliotecas:
-
-
-DocumentaciónProveedores
-ContratosVTN
-OC_Contratos
-Facturas_Contratos
-Historial de modificaciones (proveedores y contratos)
-Administración de usuarios
+La información es almacenada en un sitio documental de Sharepoint.
