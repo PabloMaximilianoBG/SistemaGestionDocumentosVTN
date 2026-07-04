@@ -4,7 +4,7 @@ Aplicación desarrollada en Microsoft Power Platform (Power Apps + SharePoint) p
 
 <p align="center">
   <img src="inicio.png" width="100%" />
-</p>
+</p> #
 
 ## 🚀 ¿Qué realiza el sistema aplicativo?
 
